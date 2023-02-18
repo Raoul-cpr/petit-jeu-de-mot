@@ -1,0 +1,9 @@
+.check_card{
+    margin: auto;
+    width: 25px;
+    height: 40px;
+    position: relative;
+    perspective: 800px;
+    background-color: rgba(0, 0, 0, 0.507);
+    border-radius: 5px;
+}

@@ -1,0 +1,23 @@
+.card{
+    margin: auto;
+    width: 25px;
+    height: 40px;
+    position: relative;
+    perspective: 800px;
+    background-color: blue;
+    border-radius: 5px;
+    /* transform-style: preserve-3d; */
+    transition: transform 0.5s;
+}
+
+.card:hover{
+    transform: rotateX(20deg) rotateY(20deg);
+}
+
+.letter{
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+  color: aliceblue;
+}
+  

@@ -1,0 +1,126 @@
+.list_card {
+
+    justify-content: center;
+    padding-top: 150px;
+    display: flex;
+    cursor: pointer;
+}
+
+.list_card_delete {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.succes {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.echecButton {
+    margin-top: 5px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.echecContainer {
+    margin-top: 5px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button {
+  
+    display: flex;
+    margin: auto;
+}
+
+.score {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+
+}
+
+.button_players{
+    padding: 3px;
+    display: flex;
+    margin: auto;
+    font-size: 8px;
+    background-color: rgb(110, 170, 80);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.button_players:hover{
+    background-color: rgb(57, 132, 20);
+    color: white;
+    border: none;
+}
+
+.titre{
+    max-width: 500px;
+    color: aliceblue;
+    background-color: gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.ligne{
+    color: gray;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+.liste{
+    padding-top:5px;
+    margin: auto;
+    justify-content: center;
+    max-width: 500px;
+    background-color: antiquewhite;
+   
+}
+.return_button{
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: aliceblue;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.titre_tab{
+    color: rgb(17, 38, 225);
+   
+}
+.col1{
+    padding-right: 80px;
+    padding-left: 10px;
+}
+.col2{
+    padding-right: 10px;
+}
